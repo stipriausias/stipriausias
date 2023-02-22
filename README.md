@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Domantas</h1>
-<h3 align="center">A passionate frontend developer from Lithuania</h3>
+<h3 align="center">A passionate software developer from Lithuania</h3>
 
-- 🌱 I’m currently learning **Javascript OPP and back-end**
+- 🌱 I’m currently learning **Typescript, Python and Data analytics**
 
 - 👯 I’m looking to collaborate on **Some cool projects to solve some problems**
 
